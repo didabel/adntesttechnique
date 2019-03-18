@@ -1,0 +1,9 @@
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/bin/Debug/AdnTestTechnique.exe
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/bin/Debug/AdnTestTechnique.pdb
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/bin/Debug/nunit.framework.dll
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/bin/Debug/nunit.framework.pdb
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/bin/Debug/nunit.framework.xml
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/obj/x86/Debug/AdnTestTechnique.csproj.CoreCompileInputs.cache
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/obj/x86/Debug/AdnTestTechnique.csproj.CopyComplete
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/obj/x86/Debug/AdnTestTechnique.exe
+/Users/bakkou/Projects/AdnTestTechnique/AdnTestTechnique/obj/x86/Debug/AdnTestTechnique.pdb

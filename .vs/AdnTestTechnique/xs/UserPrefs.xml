@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E24ED954-2353-4E20-BC4D-F62B49560B8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdnTestTechnique FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdnTestTechnique/Part2.cs">
+    <Files>
+      <File FileName="AdnTestTechnique/Program.cs" Line="1" Column="1" />
+      <File FileName="AdnTestTechnique/Part2.cs" Line="6" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
